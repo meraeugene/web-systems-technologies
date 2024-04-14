@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContentLoaded", () => {
   // Get form elements and table
   const createForm = document.getElementById("createForm");
   const nameInput = document.getElementById("name");
